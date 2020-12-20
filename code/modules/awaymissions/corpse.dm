@@ -386,8 +386,8 @@
 	name = "bartender sleeper"
 	icon = 'icons/obj/machines/sleeper.dmi'
 	icon_state = "sleeper"
-	short_desc = "You are a space bartender!"
-	flavour_text = "Time to mix drinks and change lives. Smoking space drugs makes it easier to understand your patrons' odd dialect."
+	short_desc = "Jesteś kosmicznym barmanem!"
+	flavour_text = "Czas mieszać drinki i zmieniać życia. Palenie dragów ułatwia zrozumienie dziwnego dialektu twoich klientów."
 	assignedrole = "Space Bartender"
 	id_job = "Bartender"
 
@@ -411,13 +411,13 @@
 	name = "beach bum sleeper"
 	icon = 'icons/obj/machines/sleeper.dmi'
 	icon_state = "sleeper"
-	short_desc = "You're, like, totally a dudebro, bruh."
+	short_desc = Jesteś, jakby, totalnie ziomal, brachu."
 	flavour_text = "Ch'yea. You came here, like, on spring break, hopin' to pick up some bangin' hot chicks, y'knaw?"
 	assignedrole = "Beach Bum"
 
 /obj/effect/mob_spawn/human/beach/alive/lifeguard
-	short_desc = "You're a spunky lifeguard!"
-	flavour_text = "It's up to you to make sure nobody drowns or gets eaten by sharks and stuff."
+	short_desc = "Jesteś niezłomnym ratownikiem!"
+	flavour_text = "Od ciebie zależy by nikt nie utonął, nie został pożarty przez rekiny i takie tam."
 	mob_gender = "female"
 	name = "lifeguard sleeper"
 	id_job = "Lifeguard"
